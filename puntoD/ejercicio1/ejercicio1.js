@@ -6,7 +6,7 @@ Si no cumple las dos condiciones, debe mostrar "Acceso denegado".
 Pregunta de análisis: ¿Qué operador lógico usarías para verificar que se cumplan
 ambas condiciones?*/
 
-// importar el módulo prompt-sync
+// importamos el módulo prompt-sync
 import promptSync from 'prompt-sync';
 // crear una instancia del prompt
 const prompt = promptSync();
